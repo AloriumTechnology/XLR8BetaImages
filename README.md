@@ -25,7 +25,9 @@ C:/users/YourUserName/AppData(hidden folder)/Local/Packages/Arduino15/packages/a
 Navigate to the directory for xlr8reconfig and use the following command syntax to start the FPGA loading process:
 
 Mac:
+
 xlr8reconfig –rpd_file <path_and_name_of_rpd_file> --load_image 1
 
 Windows:
+
 xlr8reconfig.exe -v --rpd_file <path_and_name_of_rpd_file> --load_image 1
