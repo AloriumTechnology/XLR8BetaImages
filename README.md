@@ -14,9 +14,10 @@ This repository is where we share Beta FPGA images for the XLR8 family boards.  
 |[sno_c32_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/sno_c32_oDefault_u16_x02_svn2909beta.rpd) | Snō 32MHz - Servo Speed Control |
 |[xlr8_c16_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/xlr8_c16_oDefault_u16_x02_svn2909beta.rpd)| XLR8 16MHz- Servo Speed Control |
 |[xlr8_c32_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/xlr8_c32_oDefault_u16_x02_svn2909beta.rpd)| XLR8 32MHz- Servo Speed Control |
+
 <hr>
 
-## Command-Line FPGA Image Upload Tool: *xlr8reconfig*
+# Command-Line FPGA Image Upload Tool: *xlr8reconfig*
 We have provided a command line tool called xlr8reconfig that allows you to update the FPGA image from the command line.  This is the same tool that runs when you update the FPGA via the "Burn Bootloader" command in the Arduino IDE.
 
 ## Instructions:
