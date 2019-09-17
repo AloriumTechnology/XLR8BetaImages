@@ -7,7 +7,7 @@ This repository is where we share Beta FPGA images for the XLR8 family boards.  
 ## Beta Images
 | RPD Name                                | Description     |
 |:----------------------------------------|-----------------|
-|hinj_dmem_beta.rpd| Hinj 16MHz DMEM XB Demo Image |
+|hinj_c16_oXLR8DMem_u32_x00_svn2903to2910Mbeta.rpd| Hinj 16MHz DMEM XB Demo Image |
 |hinj_c16_oDefault_u16_x02_svn2909beta.rpd| Hinj 16MHz - Servo Speed Control |
 |hinj_c32_oDefault_u16_x02_svn2909beta.rpd| Hinj 32MHz - Servo Speed Control |
 |sno_c16_oDefault_u16_x02_svn2909beta.rpd | Snō 16MHz - Servo Speed Control |
