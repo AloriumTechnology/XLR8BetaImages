@@ -7,13 +7,13 @@ This repository is where we share Beta FPGA images for the XLR8 family boards.  
 ## Beta Images
 | RPD Name                                | Description     |
 |:----------------------------------------|-----------------|
-|hinj_c16_oXLR8DMem_u32_x00_svn2903to2910Mbeta.rpd| Hinj 16MHz DMEM XB Demo Image |
-|hinj_c16_oDefault_u16_x02_svn2909beta.rpd| Hinj 16MHz - Servo Speed Control |
-|hinj_c32_oDefault_u16_x02_svn2909beta.rpd| Hinj 32MHz - Servo Speed Control |
-|sno_c16_oDefault_u16_x02_svn2909beta.rpd | Snō 16MHz - Servo Speed Control |
-|sno_c32_oDefault_u16_x02_svn2909beta.rpd | Snō 32MHz - Servo Speed Control |
-|xlr8_c16_oDefault_u16_x02_svn2909beta.rpd| XLR8 16MHz- Servo Speed Control |
-|xlr8_c32_oDefault_u16_x02_svn2909beta.rpd| XLR8 32MHz- Servo Speed Control |
+|[hinj_c16_oXLR8DMem_u32_x00_svn2903to2910Mbeta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/hinj_c16_oDefault_u16_x02_svn2909beta.rpd)| Hinj 16MHz DMEM XB Demo Image |
+|[hinj_c16_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/hinj_c16_oDefault_u16_x02_svn2909beta.rpd)| Hinj 16MHz - Servo Speed Control |
+|[hinj_c32_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/hinj_c32_oDefault_u16_x02_svn2909beta.rpd)| Hinj 32MHz - Servo Speed Control |
+|[sno_c16_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/sno_c16_oDefault_u16_x02_svn2909beta.rpd) | Snō 16MHz - Servo Speed Control |
+|[sno_c32_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/sno_c32_oDefault_u16_x02_svn2909beta.rpd) | Snō 32MHz - Servo Speed Control |
+|[xlr8_c16_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/xlr8_c16_oDefault_u16_x02_svn2909beta.rpd)| XLR8 16MHz- Servo Speed Control |
+|[xlr8_c32_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/XLR8BetaImages/blob/master/xlr8_c32_oDefault_u16_x02_svn2909beta.rpd)| XLR8 32MHz- Servo Speed Control |
 <hr>
 
 ## Command-Line FPGA Image Upload Tool: *xlr8reconfig*
