@@ -1,8 +1,22 @@
 # XLR8 Beta Images
+This repository is where we share Beta FPGA images for the XLR8 family boards.  These images contain new or experimental functionality that may not yet be included in formally released XLR8 FPGA images.
 
-This repository is where we will share Beta FPGA images for the XLR8 family boards.  These images contain new or experimental functionality that may not yet be included in formally released XLR8 FPGA images.
+<hr>
 
-## FPGA Image Upload Tool: *xlr8reconfig*
+
+## Beta Images
+| RPD Name                                | Description     |
+|:----------------------------------------|-----------------|
+|hinj_dmem_beta.rpd| Hinj 16MHz DMEM XB Demo Image |
+|hinj_c16_oDefault_u16_x02_svn2909beta.rpd| Hinj 16MHz - Servo Speed Control |
+|hinj_c32_oDefault_u16_x02_svn2909beta.rpd| Hinj 32MHz - Servo Speed Control |
+|sno_c16_oDefault_u16_x02_svn2909beta.rpd | Snō 16MHz - Servo Speed Control |
+|sno_c32_oDefault_u16_x02_svn2909beta.rpd | Snō 32MHz - Servo Speed Control |
+|xlr8_c16_oDefault_u16_x02_svn2909beta.rpd| XLR8 16MHz- Servo Speed Control |
+|xlr8_c32_oDefault_u16_x02_svn2909beta.rpd| XLR8 32MHz- Servo Speed Control |
+<hr>
+
+## Command-Line FPGA Image Upload Tool: *xlr8reconfig*
 We have provided a command line tool called xlr8reconfig that allows you to update the FPGA image from the command line.  This is the same tool that runs when you update the FPGA via the "Burn Bootloader" command in the Arduino IDE.
 
 ## Instructions:
